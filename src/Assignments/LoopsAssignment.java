@@ -1,5 +1,5 @@
 package Assignments;
-
+//Create class with method which generates odd numbers between the range
 public class LoopsAssignment {
 
 	public static void main(String[] args) {
@@ -8,18 +8,13 @@ public class LoopsAssignment {
 		for (int i = 1; i <= 50; i++) {
 			if(i%2!=0) { //if the remainder of i is not 0 after being divided by 2
 				System.out.println(i+" ");
-				
+				// the same as class example but moludus is checking for a non 0 remainder now
 			}
 		}
 		
-		
 	}
-
-				
-			
-		
 	
-		}
+}
 
 		
 
@@ -28,6 +23,6 @@ public class LoopsAssignment {
 
 
 
-//Create class with method which generates odd numbers between the range
-//Create a class with method which generates fibonacci sequence
-//Create class with method which checks if the value is pallindrome or not
+
+
+
