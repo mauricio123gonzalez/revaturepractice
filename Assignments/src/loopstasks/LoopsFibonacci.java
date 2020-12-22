@@ -4,7 +4,7 @@ public class LoopsFibonacci {
 
 		// TODO Auto-generated method stub
 		static int f1=0,f2=1,f3=0;    
-		 static void printFib(int i){    
+		static void printFib(int i){    
 		    if(i>0){    
 		         f3 = f1 + f2;    
 		         f1 = f2;    

@@ -10,7 +10,7 @@ public class RegExTasks {
 		}else {
 			System.out.println("invalid SS");
 		}
-		String dl="12345678";
+		String dl="12345671";
 		if (dl.matches("[0-9]{8}")) {
 			System.out.println("valid DL");
 		}else {
